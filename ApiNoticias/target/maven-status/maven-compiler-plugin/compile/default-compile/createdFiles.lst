@@ -1,0 +1,4 @@
+com/noticias/ApiNoticias/ServletInitializer.class
+controller/newsController.class
+com/noticias/ApiNoticias/ApiNoticiasApplication.class
+services/NewsApiService.class
